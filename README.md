@@ -1,0 +1,1 @@
+This is the repo containing translations for the edennetwork launcher project
