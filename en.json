@@ -1,0 +1,112 @@
+{
+  "loading": "Loading...",
+  "back": "Back",
+  "cancel": "Cancel",
+  "continue": "Continue",
+  "submit": "Submit",
+  "username": "Username",
+  "password": "Password",
+
+  "home.toast_title": "Login Error",
+  "home.toast_description": "Wrong username or password!",
+  "home.signup": "Sign up",
+  "home.signin": "Log in",
+  "home.forgot": "Forgot Password?",
+  "home.help": "Help",
+  
+  "dashboard.settings": "Settings",
+  "dashboard.play": "Play {server}",
+  "dashboard.configurations": "Select client configuration",
+
+  "error.generic": "Something went wrong. Please restart EdenNetwork.",
+
+  "help.title": "Need support?",
+  "help.forums": "official forums",
+  "help.main": "If you are having troubles running the launcher or during registration, you can send an email to {supportLink} or, if you already have an account, via the {boardLink}",
+  "help.community": "You can also obtain community support via other channels such as:",
+  "help.disclaimer": "Mind that community support will not handle ban appeals or other sensitive information regarding your account.{br}Remember that any staff member will never require your password.",
+  "help.copyright": "© 2020 EdenNetwork Italia (Version: {version})",
+
+  "noconnection.title": "EdenNetwork Error",
+  "noconnection.message": "Looks like we're unable to connect you to our servers.{br}Please wait or check your connection...",
+
+  "password.error": "Something went wrong. Please contact us.",
+  "password.toast_false_title": "Password update error!",
+  "password.toast_false_description": "There was an issue updating your password",
+  "password.toast_true_title": "Password updated!",
+  "password.toast_true_description": "Your password has been updated correctly. Please login again",
+  "password.enterpassword": "Enter password",
+  "password.help": "Min. {min} characters",
+  "password.repeat": "Repeat Password",
+
+  "recovery.recovery_toast_title": "Password Recovery",
+  "recovery.recovery_toast_description": "We've sent your recovery code at {email}",
+  "recovery.toast_true_title": "Password Recovery",
+  "recovery.toast_true_description": "Your recovery code is valid. Please set a new password",
+  "recovery.toast_false_title": "Password Recovery",
+  "recovery.toast_false_description": "Your recovery code is invalid. Check again or contact us",
+  "recovery.email": "Email",
+  "recovery.email_help": "Insert the email address you used during registration",
+  "recovery.recovery_code": "Recovery Code",
+  "recovery.code_help": "We've sent you this code at {email}",
+
+  "registration.toast_0_title": "Registration Success!",
+  "registration.toast_0_description": "You account has been created successfully. Please login to activate it.",
+  "registration.toast_1_title": "Registration Error!",
+  "registration.toast_1_description": "The username you have choosen is not valid or already in use",
+  "registration.toast_2_title": "Registration Error!",
+  "registration.toast_2_description": "The email you have insert is not valid or already in use",
+  "registration.toast_3_title": "Registration Error!",
+  "registration.toast_3_description": "The phone number you have insert is not valid or already in use",
+  "registration.toast_4_title": "Registration Error!",
+  "registration.toast_4_description": "The password you have choosen is not valid",
+  "registration.toast_default_title": "Registration Error!",
+  "registration.toast_default_description": "An unexpected error occurred. Please try again or contact us",
+  "registration.username_help": "3-16 alphanumeric characters",
+  "registration.enterpassword": "Enter password",
+  "registration.password_help": "Min. {min} characters",
+  "registration.repeat_password": "Repeat Password",
+  "registration.email": "Email",
+  "registration.email_help": "You will receive a verification code on this address",
+  "registration.phone": "Phone Number",
+  "registration.phone_placeholder": "+39xxxxxxxxxx",
+  "registration.phone_help": "<bold>Must start with international prefix code (es: +39)</bold>{br}You will receive a verification code via SMS",
+  "registration.age": "Age Verification",
+  "registration.age_help": "I declare I'm at least 13 years old",
+  "registration.register": "Register",
+
+  "settings.title": "Settings",
+  "settings.animated_background": "Animated Background",
+  "settings.page_transitions": "Page Transitions",
+  "settings.language": "Language",
+
+  "update.title": "EdenNetwork Update",
+  "update.message_success": "An update is ready to be installed.{br}Please restart EdenNetwork.",
+  "update.message_error": "An error occurred while checking for updates.{br}Please restart EdenNetwork or try again later.",
+  "update.versions": "Current version: {currentVersion}{br}New Version: {newVersion}",
+
+  "verification.toast_title": "Verification Error!",
+  "verification.toast_description": "The code you input is incorrect.",
+  "verification.activation_code": "Activation Code",
+  "verification.activation_code_help": "We've sent you this code at {email} during registration",
+  "verification.phone_verification": "Phone Verification",
+  "verification.phone_verification_help": "You will receive the verification code via SMS on {phone}",
+  "verification.request_code": "Request Code",
+  "verification.done": "You're all set!",
+
+  "serverbadge.offline": "Offline",
+  "serverbadge.online": "Players {players}/{maxPlayers}",
+
+  "serverpage.error": "An error occurred while loading server page",
+
+  "loading.loading": "Loading...",
+
+
+  "loading.check_jre": "Checking Java...",
+  "loading.check_client": "Client checking in progress ...",
+  "loading.validating_client":" Validating client in progress...",
+  "loading.downloading_files":"{loaded} % downloading files in progress...",
+
+  "loading.play": "Launching {name}..."
+    
+}
