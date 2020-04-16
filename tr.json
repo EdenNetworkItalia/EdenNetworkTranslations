@@ -19,7 +19,7 @@
     "home.help": "Yardım",
     "dashboard.settings": "Ayarlar",
     "registration.toast_3_description": "Seçtiğin telefon numarası kullanılmakta veya geçersiz",
-    "dashboard.play": "Oyna",
+    "dashboard.play": "Oyna {server}",
     "loading.downloading_files": "{loaded} % dosya yüklemesi devam etmekte...",
     "dashboard.configurations": "Istemci yapılandırmasını ayarla",
     "error.generic": "Bir hata oluştu. Lütfen EdenNetwork'u yeniden başlat.",
