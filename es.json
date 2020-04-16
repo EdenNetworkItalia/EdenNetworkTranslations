@@ -4,42 +4,35 @@
     "cancel": "Borrar",
     "continue": "Sigue",
     "submit": "Envía",
-    "username": "Username",
+    "username": "Nombre de usuario",
     "password": "Password",
-  
     "home.toast_title": "Error de inicio de sesión",
     "home.toast_description": "Nombre de usuario o contraseña incorrectos!",
     "home.signup": "Suscribirse",
     "home.signin": "Conectarse",
     "home.forgot": "¿Contraseña olvidada?",
     "home.help": "Aiuda",
-    
     "dashboard.settings": "Preferencias",
     "dashboard.play": "Jugar {server}",
     "dashboard.configurations": "Seleccione la configuración del Client",
-  
-    "error.generic": "Algo salió mal. Por favor reinicie EdenNetwork",
-  
+    "error.generic": "Algo salió mal. Por favor reinicie EdenNetwork.",
     "help.title": "¿Necesita ayuda?",
     "help.forums": "Foro oficial",
     "help.main": "Si tiene problemas para iniciar el launcher o en el registro, puede enviar un correo electrónico a {supportLink} o, si ya tiene una cuenta a través de {boardLink}",
     "help.community": "También puede obtener apoyo de la comunidad a través de los siguientes canales:",
     "help.disclaimer": "Recuerde que la comunidad no maneja ninguno de sus datos personales o apelaciones relacionadas con prohibiciones. Recuerde que ningún miembro del personal le pedirá su contraseña.",
     "help.copyright": "&copy; 2020 EdenNetwork Italia (versión: {version})",
-  
     "noconnection.title": "Error de EdenNetwork",
     "noconnection.message": "Parece que no podemos conectarte a nuestros servidores {br} Espera o verifica tu conexión ...",
-  
-    "password.error": "Algo salió mal. Por favor contáctenos",
+    "password.error": "Algo salió mal. Por favor contáctenos.",
     "password.toast_false_title": "Error de actualización de contraseña!",
     "password.toast_false_description": "se produjo un error al actualizar la contraseña",
     "password.toast_true_title": "Contraseña actualizada!",
     "password.toast_true_description": "Su contraseña ha sido actualizada exitosamente. Por favor inicie sesión nuevamente.",
     "password.enterpassword": "Introducir contraseña",
-    "password.help": "Caracteres mínimos {min} ",
-    "password.repeat": "Repetir la contraseña:",
-  
-    "recovery.recovery_toast_title": "Recupera las contraseñas",
+    "password.help": "Caracteres mínimos {min}",
+    "password.repeat": "Repetir la contraseña",
+    "recovery.recovery_toast_title": "Recupera las contraseña",
     "recovery.recovery_toast_description": "Le enviamos un código de recuperación a {email}",
     "recovery.toast_true_title": "Recupera las contraseña",
     "recovery.toast_true_description": "El código ingresado es válido. Ingrese una nueva contraseña",
@@ -49,9 +42,8 @@
     "recovery.email_help": "Ingrese el correo electrónico utilizado durante el registro",
     "recovery.recovery_code": "Código de recuperación",
     "recovery.code_help": "Le enviamos un código de recuperación a{email}",
-  
     "registration.toast_0_title": "Registro correcto!",
-    "registration.toast_0_description": "Su cuenta ha sido creada exitosamente. Inicia sesión para activarla",
+    "registration.toast_0_description": "Su cuenta ha sido creada exitosamente. Inicia sesión para activarla.",
     "registration.toast_1_title": "Error de registro!",
     "registration.toast_1_description": "El nombre de usuario que ingresó no es válido o ya está en uso",
     "registration.toast_2_title": "Errore di registrazione!",
@@ -64,9 +56,9 @@
     "registration.toast_default_description": "Error inesperado Por favor contáctenos",
     "registration.username_help": "de 3 a 16 caracteres alfanuméricos",
     "registration.enterpassword": "Introduce la contraseña",
-    "registration.password_help": "Caracteres mínimos {min} ",
+    "registration.password_help": "Caracteres mínimos {min}",
     "registration.repeat_password": "Repetir la contraseña",
-    "registration.email": "Correo electrónico ",
+    "registration.email": "Correo electrónico",
     "registration.email_help": "Recibirá un código de verificación a este correo",
     "registration.phone": "Teléfono",
     "registration.phone_placeholder": "+39xxxxxxxxxx",
@@ -74,17 +66,14 @@
     "registration.age": "Verificà età",
     "registration.age_help": "Declaro que tengo 13 años.",
     "registration.register": "Registrarse",
-  
     "settings.title": "Preferencias",
     "settings.animated_background": "Fondo animado",
     "settings.page_transitions": "Transiciones de página",
     "settings.language": "Lengua",
-  
     "update.title": "EdenNetwork Update",
-    "update.message_success": "Hay una actualización lista para la instalación. {Br} Reinicie EdenNetwork",
-    "update.message_error": "Error  buscando actualizaciones {br} Reinicie EdenNetwork o vuelva a intentarlo más tarde.",
+    "update.message_success": "Hay una actualización lista para la instalación. {Br} Reinicie EdenNetwork.",
+    "update.message_error": "Error buscando actualizaciones {br} Reinicie EdenNetwork o vuelva a intentarlo más tarde.",
     "update.versions": "Versión actual: {currentVersion} {br} Nueva versión: {newVersion}",
-  
     "verification.toast_title": "Código de verificación!",
     "verification.toast_description": "El código introducido es incorrecto..",
     "verification.activation_code": "Código de activación",
@@ -93,19 +82,13 @@
     "verification.phone_verification_help": "Recibirá un código de verificación por SMS en {phone}",
     "verification.request_code": "Codigo requerido",
     "verification.done": "Ya está listo.!",
-  
     "serverbadge.offline": "Offline",
     "serverbadge.online": "Players {players}/{maxPlayers}",
-  
     "serverpage.error": "Error al cargar la página del servidor",
-
     "loading.loading": "Cargando...",
-
     "loading.check_jre": "Comprobando Java...",
     "loading.check_client": "Comprobando el client en curso ....",
-    "loading.validating_client":" Validación de el client en curso..",
-    "loading.downloading_files":"{loaded} % descargando achivos en curso...",
-
+    "loading.validating_client": " Validación de el client en curso..",
+    "loading.downloading_files": "{loaded} % descargando achivos en curso...",
     "loading.play": "Iniciando {name}..."
-    
-  }
+}
