@@ -91,5 +91,7 @@
     "loading.validating_client": " Validating client in progress...",
     "loading.downloading_files": "{loaded} % downloading files in progress...",
     "loading.play": "Launching {name}...",
-    "loading.playing": "In game!"
+    "loading.playing": "In game!",
+    "loading.errored": "Something went wrong and we're not able to recover.{br}Please restart EdenNetwork and try again. If you keep getting this error please contact us on our forums.",
+    "loading.cleanup": "Closing {name}..."
 }
