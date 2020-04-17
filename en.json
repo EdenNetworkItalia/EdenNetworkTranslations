@@ -90,5 +90,6 @@
     "loading.check_client": "Client checking in progress ...",
     "loading.validating_client": " Validating client in progress...",
     "loading.downloading_files": "{loaded} % downloading files in progress...",
-    "loading.play": "Launching {name}..."
+    "loading.play": "Launching {name}...",
+    "loading.playing": "In game!"
 }
