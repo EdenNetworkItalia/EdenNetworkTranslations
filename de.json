@@ -90,5 +90,6 @@
     "loading.check_client": "Client checkt gerade ein...",
     "loading.validating_client": " Client in Bearbeitung validieren ...",
     "loading.downloading_files": "{loaded}% Dateien werden gerade heruntergeladen ...",
-    "loading.play": "Zuwasserlassung {name}..."
+    "loading.play": "Zuwasserlassung {name}...",
+    "loading.playing": "Im Spiel !"
 }
