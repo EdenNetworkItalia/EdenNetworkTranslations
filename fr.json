@@ -91,5 +91,7 @@
     "loading.downloading_files": "{loaded} % téléchargement de fichiers en cours ...",
     "loading.play": "Lancement de {name}...",
     "loading.loading": "Chargement...",
-    "loading.playing": "En jeu !"
+    "loading.playing": "En jeu !",
+    "loading.errored": "Une erreur s'est produite et nous ne sommes pas parvenus à récupérer. {Br} Veuillez redémarrer EdenNetwork et réessayer. Si vous continuez à recevoir cette erreur, veuillez nous contacter sur nos forums.",
+    "loading.cleanup": "Fermeture de {name}..."
 }
