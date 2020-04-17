@@ -90,5 +90,6 @@
     "help.main": "Eğer launcheri çalıştırmaya veya kayıt olunca sorun yaşarsan, {supportLink} 'e mail gönderebilirsin veya, kayıtlıysan', {boardLink} 'den",
     "recovery.toast_false_description": "Kurtarma kodun yanlış. Tekrar kontrol et veya bize ulaş",
     "password.toast_false_description": "Şifreni güncellemede bir hata oluştu",
-    "verification.activation_code": "Onaylama Kodu"
+    "verification.activation_code": "Onaylama Kodu",
+    "loading.playing": "Oyunda !"
 }
