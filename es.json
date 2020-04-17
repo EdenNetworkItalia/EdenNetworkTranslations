@@ -90,5 +90,6 @@
     "loading.check_client": "Comprobando el client en curso ....",
     "loading.validating_client": " Validación de el client en curso..",
     "loading.downloading_files": "{loaded} % descargando achivos en curso...",
-    "loading.play": "Iniciando {name}..."
+    "loading.play": "Iniciando {name}...",
+    "loading.playing": "Im Spiel !"
 }
