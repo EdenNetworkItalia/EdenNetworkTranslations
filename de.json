@@ -26,7 +26,7 @@
     "help.title": "Unterstützung benötigt?",
     "recovery.email_help": "Geben Sie die E-Mail-Adresse ein, die Sie bei der Registrierung verwendet haben",
     "registration.toast_0_description": "Ihr Konto wurde erfolgreich erstellt. Bitte melden Sie sich an, um es zu aktivieren.",
-    "help.copyright": "© 2020 EdenNetwork Italia (Version: {version})",
+    "help.copyright": "{copy} 2020 EdenNetwork Italia (Version: {version})",
     "noconnection.title": "EdenNetwork Fehler",
     "noconnection.message": "Anscheinend können wir Sie nicht mit unseren Servern verbinden. {br} Bitte warten oder überprüfen Sie Ihre Verbindung ...",
     "password.error": "Etwas ist schief gelaufen. Bitte kontaktieren Sie uns.",
