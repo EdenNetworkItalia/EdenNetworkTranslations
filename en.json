@@ -12,6 +12,7 @@
     "home.signin": "Log in",
     "home.forgot": "Forgot Password?",
     "home.help": "Help",
+    "home.rememberAccount": "Remember me",
     "dashboard.settings": "Settings",
     "dashboard.play": "Play {server}",
     "dashboard.configurations": "Select client configuration",
