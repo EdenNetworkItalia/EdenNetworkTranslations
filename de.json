@@ -16,7 +16,7 @@
     "dashboard.play": "Spielen {server}",
     "help.forums": "Offizielles Forum",
     "help.main": "Wenn Sie Probleme beim Ausführen des Launchers oder während der Registrierung haben, können Sie eine E-Mail an {supportLink} oder, wenn Sie bereits ein Konto haben, über {boardLink} senden",
-    "help.disclaimer": "Beachten Sie, dass der Community-Support keine Verbotsbeschwerden oder andere vertrauliche Informationen zu Ihrem Konto verarbeitet. {Br} Denken Sie daran, dass Mitarbeiter niemals Ihr Passwort benötigen.",
+    "help.disclaimer": "Beachten Sie, dass der Community-Support keine Verbotsbeschwerden oder andere vertrauliche Informationen zu Ihrem Konto verarbeitet. {br} Denken Sie daran, dass Mitarbeiter niemals Ihr Passwort benötigen.",
     "password.toast_true_title": "Passwort aktualisiert!",
     "recovery.toast_true_description": "Ihr Wiederherstellungscode ist gültig. Bitte legen Sie ein neues Passwort fest",
     "home.help": "Hilfe",
@@ -28,7 +28,7 @@
     "registration.toast_0_description": "Ihr Konto wurde erfolgreich erstellt. Bitte melden Sie sich an, um es zu aktivieren.",
     "help.copyright": "© 2020 EdenNetwork Italia (Version: {version})",
     "noconnection.title": "EdenNetwork Fehler",
-    "noconnection.message": "Anscheinend können wir Sie nicht mit unseren Servern verbinden. {Br} Bitte warten oder überprüfen Sie Ihre Verbindung ...",
+    "noconnection.message": "Anscheinend können wir Sie nicht mit unseren Servern verbinden. {br} Bitte warten oder überprüfen Sie Ihre Verbindung ...",
     "password.error": "Etwas ist schief gelaufen. Bitte kontaktieren Sie uns.",
     "password.toast_false_title": "Passwort Update-Fehler!",
     "password.toast_false_description": "Beim Aktualisieren Ihres Passworts ist ein Problem aufgetreten",
@@ -72,7 +72,7 @@
     "settings.language": "Sprache",
     "update.title": "EdenNetwork Aktualisierung",
     "update.message_success": "Ein Update kann installiert werden. {Br} Bitte starten Sie EdenNetwork neu.",
-    "update.message_error": "Beim Suchen nach Updates ist ein Fehler aufgetreten. {Br} Starten Sie EdenNetwork neu oder versuchen Sie es später erneut.",
+    "update.message_error": "Beim Suchen nach Updates ist ein Fehler aufgetreten. {br} Starten Sie EdenNetwork neu oder versuchen Sie es später erneut.",
     "update.versions": "Aktuelle Version: {currentVersion} {br} Neue Version: {newVersion}",
     "verification.toast_title": "Fehler bei der Verifikation!",
     "verification.request_code": "Anfrage Code",
@@ -93,5 +93,5 @@
     "loading.play": "Zuwasserlassung {name}...",
     "loading.playing": "Im Spiel !",
     "loading.cleanup": "Schließung von ...",
-    "loading.errored": "Es ist ein Fehler aufgetreten und wir können uns nicht erholen. {Br} Bitte starten Sie EdenNetwork neu und versuchen Sie es erneut. Wenn Sie diesen Fehler weiterhin erhalten, kontaktieren Sie uns bitte in unseren Foren."
+    "loading.errored": "Es ist ein Fehler aufgetreten und wir können uns nicht erholen. {br} Bitte starten Sie EdenNetwork neu und versuchen Sie es erneut. Wenn Sie diesen Fehler weiterhin erhalten, kontaktieren Sie uns bitte in unseren Foren."
 }
