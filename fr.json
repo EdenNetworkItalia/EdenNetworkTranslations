@@ -19,7 +19,7 @@
     "help.title": "Vous avez besoin d'aide ?",
     "help.forums": "Forum officiel",
     "help.main": "Si vous rencontrez des problèmes pour démarrer le lanceur ou lors des inscriptions, vous pouvez envoyer un e-mail à {supportLink} ou, si vous avez déjà un compte via {boardLink}",
-    "help.community": "Vous pouvez aussi obtenir support de la communauté via les canaux suivants:",
+    "help.community": "Vous pouvez aussi obtenir support de la communauté via les canaux suivants :",
     "help.disclaimer": "N'oubliez pas que la communauté ne traite aucune de vos données personnelles ni aucun appel concernant les interdictions. N'oubliez pas qu'aucun membre du personnel ne vous demandera jamais votre mot de passe.",
     "help.copyright": "© 2020 EdenNetwork Italia (Version : {version})",
     "noconnection.title": "Erreur de EdenNetwork",
@@ -80,7 +80,7 @@
     "verification.activation_code_help": "Nous vous avons envoyé un code à {email} lors de l'inscription.",
     "verification.phone_verification": "Vérification par téléphone",
     "verification.phone_verification_help": "Vous recevrez un code de vérification par SMS sur {phone}",
-    "verification.request_code": "Code requis",
+    "verification.request_code": "Demandez le code",
     "verification.done": "Voilà, c'est fait. !",
     "serverbadge.offline": "Offline",
     "serverbadge.online": "Players {players}/{maxPlayers}",
@@ -92,6 +92,6 @@
     "loading.play": "Lancement de {name}...",
     "loading.loading": "Chargement...",
     "loading.playing": "En jeu !",
-    "loading.errored": "Une erreur s'est produite et nous ne sommes pas parvenus à récupérer. {Br} Veuillez redémarrer EdenNetwork et réessayer. Si vous continuez à recevoir cette erreur, veuillez nous contacter sur nos forums.",
+    "loading.errored": "Une erreur s'est produite et nous ne sommes pas parvenus à récupérer. {br} Veuillez redémarrer EdenNetwork et réessayer. Si vous continuez à recevoir cette erreur, veuillez nous contacter sur nos forums.",
     "loading.cleanup": "Fermeture de {name}..."
 }
