@@ -28,7 +28,7 @@
     "registration.email_help": "Bu mail adresine bir onay kodu gönderilmiştir",
     "help.community": "Community yardımı da elde edebilirsin kanalların üzerinden mesela:",
     "help.disclaimer": "Hatırla ki community yardımı ban'larla ilgili problemleri veya hesabın kişisel verilerini yönetmiyor.{br}Hatırla ki yönetim'den kimse sana şifreni sormicak.",
-    "help.copyright": "© 2020 EdenNetwork İtalia (Versyon:{version})",
+    "help.copyright": "© 2020 EdenNetwork İtalia (Versyon: {version})",
     "noconnection.title": "EdenNetwork Hatası",
     "noconnection.message": "Bizim serverlere bağlantını kuramıyoruz gibi görünüyor.{br}Lütfen bekle veya bağlantını kontrol et...",
     "password.error": "Hata oluştu. Lütfen bize ulaş.",
