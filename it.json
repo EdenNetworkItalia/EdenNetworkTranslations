@@ -80,7 +80,7 @@
     "verification.activation_code_help": "Ti abbiamo spedito un codice a {email} durante la registrazione.",
     "verification.phone_verification": "Verifica del telefono",
     "verification.phone_verification_help": "Riceverai un codice di verifica via SMS a {phone}",
-    "verification.request_code": "Codice richiesto",
+    "verification.request_code": "Richiedi codice",
     "verification.done": "Tutto fatto!",
     "serverbadge.offline": "Offline",
     "serverbadge.online": "Giocatori {players}/{maxPlayers}",
