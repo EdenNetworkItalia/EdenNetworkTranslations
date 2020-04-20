@@ -93,5 +93,6 @@
     "verification.activation_code": "Onaylama Kodu",
     "loading.playing": "Oyunda !",
     "loading.cleanup": "Kapanıyor {name}...",
-    "loading.errored": "Çözemediğimiz bir hata oluştu.{br}Lütfen EdenNetworku yeniden başlat. Bu hata tekrarlanırsa lütfen forumlardan bize ulaşın."
+    "loading.errored": "Çözemediğimiz bir hata oluştu.{br}Lütfen EdenNetworku yeniden başlat. Bu hata tekrarlanırsa lütfen forumlardan bize ulaşın.",
+    "home.rememberAccount": "Beni hatırla"
 }
