@@ -93,5 +93,6 @@
     "loading.play": "Iniciando {name}...",
     "loading.playing": "Im Spiel !",
     "loading.cleanup": "Cierrando {name}...",
-    "loading.errored": "Algo salió mal y no podemos recuperarlo. {Br} Reinicie EdenNetwork e intente nuevamente. Si sigue recibiendo este error, contáctenos en nuestros foros."
+    "loading.errored": "Algo salió mal y no podemos recuperarlo. {Br} Reinicie EdenNetwork e intente nuevamente. Si sigue recibiendo este error, contáctenos en nuestros foros.",
+    "home.rememberAccount": "Recuérdame"
 }
