@@ -93,5 +93,6 @@
     "loading.play": "Avviando {name}...",
     "loading.playing": "In gioco !",
     "loading.cleanup": "Chiusura di {name}...",
-    "loading.errored": "Qualcosa è andato storto e non siamo in grado di risolvere. {Br} Riavvia EdenNetwork e riprova. Se continui a ricevere questo errore, ti preghiamo di contattarci sui nostri forum."
+    "loading.errored": "Qualcosa è andato storto e non siamo in grado di risolvere. {Br} Riavvia EdenNetwork e riprova. Se continui a ricevere questo errore, ti preghiamo di contattarci sui nostri forum.",
+    "home.rememberAccount": "Ricordami"
 }
