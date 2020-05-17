@@ -8,6 +8,8 @@
     "password": "Password",
     "home.toast_title": "Login Error",
     "home.toast_description": "Wrong username or password!",
+    "home.toast_banned_title": "Account Banned",
+    "home.toast_banned_description": "Your account has been banned for {reason} until {expiration}",
     "home.signup": "Sign up",
     "home.signin": "Log in",
     "home.forgot": "Forgot Password?",
