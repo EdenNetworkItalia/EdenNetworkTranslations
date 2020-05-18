@@ -94,5 +94,7 @@
     "loading.playing": "Im Spiel !",
     "loading.cleanup": "Schließung von ...",
     "loading.errored": "Es ist ein Fehler aufgetreten und wir können uns nicht erholen. {br} Bitte starten Sie EdenNetwork neu und versuchen Sie es erneut. Wenn Sie diesen Fehler weiterhin erhalten, kontaktieren Sie uns bitte in unseren Foren.",
-    "home.rememberAccount": "Erinnern"
+    "home.rememberAccount": "Erinnern",
+    "home.toast_banned_title": "Account gesperrt",
+    "home.toast_banned_description": "Ihr Konto wurde aus {reason} bis zum {expiration} gesperrt"
 }
