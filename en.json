@@ -18,6 +18,7 @@
     "dashboard.settings": "Settings",
     "dashboard.play": "Play {server}",
     "dashboard.configurations": "Select client configuration",
+    "dashboard.admin": "Administration",
     "error.generic": "Something went wrong. Please restart EdenNetwork.",
     "help.title": "Need support?",
     "help.forums": "official forums",
@@ -96,5 +97,8 @@
     "loading.play": "Launching {name}...",
     "loading.playing": "In game!",
     "loading.errored": "Something went wrong and we're not able to recover.{br}Please restart EdenNetwork and try again. If you keep getting this error please contact us on our forums.",
-    "loading.cleanup": "Closing {name}..."
+    "loading.cleanup": "Closing {name}...",
+    "admin.dashboard": "Dashboard",
+    "admin.users": "Users Management",
+    "admin.servers": "Server List"
 }
