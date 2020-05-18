@@ -94,5 +94,7 @@
     "loading.playing": "En jeu !",
     "loading.errored": "Une erreur s'est produite et nous ne sommes pas parvenus à récupérer. {br} Veuillez redémarrer EdenNetwork et réessayer. Si vous continuez à recevoir cette erreur, veuillez nous contacter sur nos forums.",
     "loading.cleanup": "Fermeture de {name}...",
-    "home.rememberAccount": "Ne m'oublie pas"
+    "home.rememberAccount": "Ne m'oublie pas",
+    "home.toast_banned_description": "Votre compte a été interdit pour {reason} jusqu'à {expiration}",
+    "home.toast_banned_title": "Compte Interdit"
 }
