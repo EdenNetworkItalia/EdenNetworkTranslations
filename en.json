@@ -100,7 +100,7 @@
     "loading.cleanup": "Closing {name}...",
     "table.back": "Back",
     "table.next": "Next",
-    "table.search": "Search...",
+    "table.search": "Search…",
     "admin.dashboard": "Dashboard",
     "admin.users": "Users Management",
     "admin.servers": "Server List",
