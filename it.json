@@ -90,7 +90,7 @@
     "loading.loading": "Caricamento...",
     "loading.check_jre": "Controllo di Java in corso...",
     "loading.check_client": "Controllo del client in corso...",
-    "loading.validating_client": " Convalida del client client in corso...",
+    "loading.validating_client": " Convalida del client in corso...",
     "loading.downloading_files": "{loaded} % download dei file in corso...",
     "loading.play": "Avviando {name}...",
     "loading.playing": "In gioco !",
