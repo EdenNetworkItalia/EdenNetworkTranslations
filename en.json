@@ -19,6 +19,7 @@
     "dashboard.play": "Play {server}",
     "dashboard.configurations": "Select client configuration",
     "dashboard.admin": "Administration",
+    "dashboard.board": "Board",
     "error.generic": "Something went wrong. Please restart EdenNetwork.",
     "help.title": "Need support?",
     "help.forums": "official forums",
