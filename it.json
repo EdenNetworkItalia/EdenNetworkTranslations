@@ -127,5 +127,6 @@
     "dashboard.admin": "Amministrazione",
     "admin.dashboard": "Dashboard",
     "admin.users": "Gestione Utenti",
-    "admin.servers": "Lista Server"
+    "admin.servers": "Lista Server",
+    "dashboard.board": "Board"
 }
