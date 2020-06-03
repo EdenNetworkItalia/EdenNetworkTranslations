@@ -2,6 +2,7 @@
     "loading": "Caricamento...",
     "back": "Indietro",
     "cancel": "Cancella",
+    "close": "Chiudi",
     "continue": "Continua",
     "submit": "Invia",
     "username": "Nome utente",
@@ -17,6 +18,7 @@
     "dashboard.settings": "Impostazioni",
     "dashboard.play": "Gioca {server}",
     "dashboard.configurations": "Seleziona la configurazione del client",
+    "dashboard.board": "Forum",
     "error.generic": "Qualcosa è andato storto. Per favore riavvia EdenNetwork.",
     "help.title": "Hai bisogno di aiuto?",
     "help.forums": "Forum ufficiale",
@@ -128,5 +130,6 @@
     "admin.dashboard": "Dashboard",
     "admin.users": "Gestione Utenti",
     "admin.servers": "Lista Server",
-    "dashboard.board": "Board"
+    "admin.port": "Porta",
+    "admin.key": "Chiave"
 }
