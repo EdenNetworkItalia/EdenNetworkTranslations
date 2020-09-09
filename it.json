@@ -19,6 +19,8 @@
     "dashboard.play": "Gioca {server}",
     "dashboard.configurations": "Seleziona la configurazione del client",
     "dashboard.board": "Forum",
+    "dashboard.changeSkin": "Cambia skin",
+    "dashboard.chargeAccount": "Ricarica account",
     "error.generic": "Qualcosa è andato storto. Per favore riavvia EdenNetwork.",
     "help.title": "Hai bisogno di aiuto?",
     "help.forums": "Forum ufficiale",

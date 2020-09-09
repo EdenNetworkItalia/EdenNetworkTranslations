@@ -21,6 +21,8 @@
     "dashboard.configurations": "Select client configuration",
     "dashboard.admin": "Administration",
     "dashboard.board": "Board",
+    "dashboard.changeSkin": "Change skin",
+    "dashboard.chargeAccount": "Charge account",
     "error.generic": "Something went wrong. Please restart EdenNetwork.",
     "help.title": "Need support?",
     "help.forums": "official forums",
