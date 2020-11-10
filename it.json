@@ -97,6 +97,7 @@
     "loading.validating_client": " Convalida del client in corso...",
     "loading.downloading_files": "{loaded} % download dei file in corso...",
     "loading.play": "Avviando {name}...",
+    "loading.loaded": "In attesa di connessione a {name}",
     "loading.playing": "In gioco !",
     "loading.cleanup": "Chiusura di {name}...",
     "loading.errored": "Qualcosa è andato storto e non siamo in grado di risolvere. {br} Riavvia EdenNetwork e riprova. Se continui a ricevere questo errore, ti preghiamo di contattarci sui nostri forum.",

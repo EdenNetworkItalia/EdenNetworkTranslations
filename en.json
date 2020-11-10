@@ -100,6 +100,7 @@
     "loading.downloading_files": "{loaded} % downloading files in progress...",
     "loading.play": "Launching {name}...",
     "loading.playing": "In game!",
+    "loading.loaded": "Waiting to be connected to {name}",
     "loading.errored": "Something went wrong and we're not able to recover.{br}Please restart EdenNetwork and try again. If you keep getting this error please contact us on our forums.",
     "loading.cleanup": "Closing {name}...",
     "table.back": "Back",
