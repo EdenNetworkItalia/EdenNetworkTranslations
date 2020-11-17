@@ -74,7 +74,7 @@
     "settings.page_transitions": "Seitenübergänge",
     "settings.language": "Sprache",
     "update.title": "EdenNetwork Aktualisierung",
-    "update.message_success": "Ein Update kann installiert werden. {Br} Bitte starten Sie EdenNetwork neu.",
+    "update.message_success": "Ein Update kann installiert werden. {br} Bitte starten Sie EdenNetwork neu.",
     "update.message_error": "Beim Suchen nach Updates ist ein Fehler aufgetreten. {br} Starten Sie EdenNetwork neu oder versuchen Sie es später erneut.",
     "update.versions": "Aktuelle Version: {currentVersion} {br} Neue Version: {newVersion}",
     "verification.toast_title": "Fehler bei der Verifikation!",
