@@ -74,7 +74,7 @@
     "settings.page_transitions": "Transitions de page",
     "settings.language": "langue",
     "update.title": "EdenNetwork Update",
-    "update.message_success": "Une mise à jour est prête pour l'installation. {Br} Veuillez redémarrer EdenNetwork.",
+    "update.message_success": "Une mise à jour est prête pour l'installation. {br} Veuillez redémarrer EdenNetwork.",
     "update.message_error": "Erreur lors de la vérification des mises à jour {br} Veuillez redémarrer EdenNetwork ou réessayer plus tard.",
     "update.versions": "Version actuelle : {currentVersion} {br} Nouvelle version : {newVersion}",
     "verification.toast_title": "Code de vérification !",
