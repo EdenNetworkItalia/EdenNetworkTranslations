@@ -69,6 +69,7 @@
     "registration.phone": "Telefono",
     "registration.phone_placeholder": "+39xxxxxxxxxx",
     "registration.phone_help": "<bold>Deve iniziare con un prefisso internazionale (es: +39) </bold>{br}Riceverai un codice di verifica via SMS.",
+    "registration.phone_error_time": "Non puoi richiedere un codice di verifica troppo spesso.",
     "registration.age": "Verificà età",
     "registration.age_help": "Dichiaro di avere almeno 13 anni.",
     "registration.register": "Registrati",

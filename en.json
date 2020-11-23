@@ -71,6 +71,7 @@
     "registration.phone": "Phone Number",
     "registration.phone_placeholder": "+39xxxxxxxxxx",
     "registration.phone_help": "<bold>Must start with international prefix code (es: +39)</bold>{br}You will receive a verification code via SMS.",
+    "registration.phone_error_time": "Cannot request a new verification code. Another code has been provided early.",
     "registration.age": "Age Verification",
     "registration.age_help": "I declare I'm at least 13 years old.",
     "registration.register": "Register",
