@@ -83,6 +83,7 @@
     "verification.activation_code_help": "Nous vous avons envoyé un code à {email} lors de l'inscription.",
     "verification.phone_verification": "Vérification par téléphone",
     "verification.phone_verification_help": "Vous recevrez un code de vérification par SMS sur {phone}",
+    "registration.phone_error_time": "Impossible de demander un nouveau code de vérification. Un autre code a été fourni tôt.",
     "verification.request_code": "Demandez le code",
     "verification.done": "Voilà, c'est fait. !",
     "serverbadge.offline": "Offline",
