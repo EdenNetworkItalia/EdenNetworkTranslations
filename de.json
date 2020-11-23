@@ -85,6 +85,7 @@
     "verification.done": "Du bist fertig!",
     "verification.phone_verification": "Telefonische Überprüfung",
     "verification.phone_verification_help": "Sie erhalten den Bestätigungscode per SMS auf {phone}",
+    "registration.phone_error_time": "Es kann kein neuer Bestätigungscode angefordert werden. Ein anderer Code wurde frühzeitig bereitgestellt.",
     "serverbadge.offline": "Offline",
     "serverbadge.online": "Spieler {players} / {maxPlayers}",
     "serverpage.error": "Beim Laden der Serverseite ist ein Fehler aufgetreten",
