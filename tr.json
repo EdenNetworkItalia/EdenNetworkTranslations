@@ -77,6 +77,7 @@
     "verification.toast_description": "Gridiğin kod hatalı.",
     "verification.phone_verification": "Telefon Onaylaması",
     "verification.phone_verification_help": "Onaylama kodu {phone} dan SMS üzerinden gönderilmiştir",
+    "registration.phone_error_time": "Yeni bir doğrulama kodu istenemez. Başka bir kod önceden sağlanmıştır.",
     "verification.request_code": "Istek Kodu",
     "verification.done": "Herşey tamamdır!",
     "serverbadge.offline": "Cevrimdışı",
