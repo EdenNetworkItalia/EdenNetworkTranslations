@@ -72,6 +72,8 @@
     "registration.phone_error_time": "Non puoi richiedere un codice di verifica troppo spesso.",
     "registration.age": "Verificà età",
     "registration.age_help": "Dichiaro di avere almeno 13 anni.",
+    "registration.eula": "Dichiaro di accettare l'accordo di licenza con l'utente finale.",
+    "registration.eula_link": "EULA",
     "registration.register": "Registrati",
     "settings.title": "Impostazioni",
     "settings.animated_background": "Sfondo Animato",
