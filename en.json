@@ -73,7 +73,7 @@
     "registration.phone_help": "<bold>Must start with international prefix code (es: +39)</bold>{br}You will receive a verification code via SMS.",
     "registration.phone_error_time": "Cannot request a new verification code. Another code has been provided early.",
     "registration.age": "Age Verification",
-    "registration.age_help": "I declare I'm at least 13 years old.",
+    "registration.age_help": "I declare that I am of the minimum age to use the service",
     "registration.eula": "I accept the End-User License Agreement.",
     "registration.eula_link": "EULA",
     "registration.register": "Register",
