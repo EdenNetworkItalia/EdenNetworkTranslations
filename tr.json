@@ -67,7 +67,7 @@
     "registration.password_help": "En az. {min} karakterler",
     "registration.phone_help": "<bold>Uluslararası kodu ile başlaması lazım (es: +39)</bold>{br}SMS üzerinde onay kodu gönderilmiştir.",
     "registration.age": "Yaş Açıklaması",
-    "registration.age_help": "En az 13 yaşında oluduğumu onayliyorum.",
+    "registration.age_help": "Hizmeti kullanmak için minimum yaş olduğumu beyan ederim.",
     "registration.register": "Kayıt ol",
     "registration.eula": "Son Kullanıcı Lisans Sözleşmesini kabul ettiğimi beyan ederim.",
     "registration.eula_link": "EULA",
