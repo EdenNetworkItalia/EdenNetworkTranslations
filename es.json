@@ -68,6 +68,8 @@
     "registration.phone_help": "<bold>Tiene que empezarcon un prefisso internazionale (es: +39) </bold>{br}Recibirás un SMS con un código de verificación.",
     "registration.age": "Verificà età",
     "registration.age_help": "Declaro que tengo 13 años.",
+    "registration.eula": "Declaro que acepto el Acuerdo de licencia de usuario final.",
+    "registration.eula_link": "EULA",
     "registration.register": "Registrarse",
     "settings.title": "Preferencias",
     "settings.animated_background": "Fondo animado",
