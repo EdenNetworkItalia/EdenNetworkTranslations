@@ -67,7 +67,7 @@
     "registration.phone_placeholder": "+39xxxxxxxxxx",
     "registration.phone_help": "<bold>Il doit commencer par un préfixe international (es : +33) </bold>{br}Vous recevrez un code de vérification par SMS.",
     "registration.age": "vérification d'âge",
-    "registration.age_help": "Je déclare d'avoir 13 ans.",
+    "registration.age_help": "Je déclare avoir l'âge minimum pour utiliser le service.",
     "registration.eula": "Je déclare que j'accepte le Contrat de Licence Utilisateur Final.",
     "registration.eula_link": "EULA",
     "registration.register": "Inscrivez-vous",
