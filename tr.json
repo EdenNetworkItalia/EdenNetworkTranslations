@@ -69,6 +69,8 @@
     "registration.age": "Yaş Açıklaması",
     "registration.age_help": "En az 13 yaşında oluduğumu onayliyorum.",
     "registration.register": "Kayıt ol",
+    "registration.eula": "Son Kullanıcı Lisans Sözleşmesini kabul ettiğimi beyan ederim.",
+    "registration.eula_link": "EULA",
     "settings.title": "Ayarlar",
     "settings.animated_background": "Animasyonlu Arka Plan",
     "settings.page_transitions": "Sayfa Geçişleri",
