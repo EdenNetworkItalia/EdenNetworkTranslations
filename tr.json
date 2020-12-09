@@ -75,6 +75,7 @@
     "settings.animated_background": "Animasyonlu Arka Plan",
     "settings.page_transitions": "Sayfa Geçişleri",
     "settings.language": "Dil",
+    "settings.javaVersion": "Java sürümü",
     "update.title": "EdenNetwork Güncellemesi",
     "update.message_error": "Güncelleme kontrolünde bir hata oluştu.{br}Lütfen EdenNetworku yeniden başlat veya birazdan tekrar dene.",
     "update.versions": "Şimdiki versiyon: {currentVersion}{br}Yeni Versiyon: {newVersion}",
