@@ -75,6 +75,7 @@
     "settings.animated_background": "Animierter Hintergrund",
     "settings.page_transitions": "Seitenübergänge",
     "settings.language": "Sprache",
+    "settings.javaVersion": "Java Version",
     "update.title": "EdenNetwork Aktualisierung",
     "update.message_success": "Ein Update kann installiert werden. {br} Bitte starten Sie EdenNetwork neu.",
     "update.message_error": "Beim Suchen nach Updates ist ein Fehler aufgetreten. {br} Starten Sie EdenNetwork neu oder versuchen Sie es später erneut.",
