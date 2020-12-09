@@ -81,7 +81,7 @@
     "settings.animated_background": "Animated Background",
     "settings.page_transitions": "Page Transitions",
     "settings.language": "Language",
-    "settings.javaVersion": "Java version",
+    "settings.javaVersion": "Java Version",
     "update.title": "EdenNetwork Update",
     "update.message_success": "An update is ready to be installed.{br}Please restart EdenNetwork.",
     "update.message_error": "An error occurred while checking for updates.{br}Please restart EdenNetwork or try again later.",
