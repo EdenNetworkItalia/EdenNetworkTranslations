@@ -80,6 +80,7 @@
     "settings.page_transitions": "Transizioni delle pagine",
     "settings.language": "Lingua",
     "settings.javaVersion": "Versione di Java",
+    "settings.discord_presence": "Mostra su Discord la tua presenza online",
     "update.title": "Aggiornamento EdenNetwork",
     "update.message_success": "Un aggiornamento è pronto per l'installazione.{br}Per favore, riavvia EdenNetwork.",
     "update.message_error": "Errore durante il controllo degli update {br}Perfavore riavvia EdenNetwork o riprova più tardi.",

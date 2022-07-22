@@ -76,6 +76,7 @@
     "settings.page_transitions": "Transitions de page",
     "settings.language": "langue",
     "settings.javaVersion": "Version de Java",
+    "settings.discord_presence": "Afficher votre présence en ligne sur Discord",
     "update.title": "EdenNetwork Update",
     "update.message_success": "Une mise à jour est prête pour l'installation. {br} Veuillez redémarrer EdenNetwork.",
     "update.message_error": "Erreur lors de la vérification des mises à jour {br} Veuillez redémarrer EdenNetwork ou réessayer plus tard.",
