@@ -27,7 +27,7 @@
     "help.main": "Se hai problemi ad avviare il launcher o nella registrazioni, puoi inviare una mail a {supportLink} o, se hai già un account tramite il {boardLink}",
     "help.community": "Puoi ottenere supporto anche dalla community tramite i seguenti canali:",
     "help.disclaimer": "Ricorda che la community non gestisce nessun tuo dato personale o appello riguardo i ban. Ricorda che nessun membro dello staff ti chiederà mai la password.",
-    "help.copyright": "{copy} 2020 EdenNetwork Italia (Versione: {version})",
+    "help.copyright": "{copy} {year} EdenNetwork Italia (Versione: {version})",
     "noconnection.title": "Errore di EdenNetwork",
     "noconnection.message": "Sembra che non siamo in grado di connetterti ai nostri server.{br}Per favore, controlla la tua connessione ad internet...",
     "password.error": "Qualcosa non è andato per il verso giusto. Per favore, contattaci.",
