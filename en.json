@@ -80,6 +80,7 @@
     "settings.title": "Settings",
     "settings.animated_background": "Animated Background",
     "settings.page_transitions": "Page Transitions",
+    "settings.fullscreen": "Full screen",
     "settings.language": "Language",
     "settings.javaVersion": "Java Version",
     "settings.discord_presence": "Show your online presence on Discord",
