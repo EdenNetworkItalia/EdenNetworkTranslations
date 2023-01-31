@@ -76,7 +76,6 @@
     "settings.page_transitions": "Seitenübergänge",
     "settings.fullscreen": "Ganzer Bildschirm",
     "settings.language": "Sprache",
-    "settings.javaVersion": "Java Version",
     "settings.discord_presence": "Zeigen Sie Ihre Online-Präsenz auf Discord",
     "update.title": "EdenNetwork Aktualisierung",
     "update.message_success": "Ein Update kann installiert werden. {br} Bitte starten Sie EdenNetwork neu.",

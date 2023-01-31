@@ -82,7 +82,6 @@
     "settings.page_transitions": "Page Transitions",
     "settings.fullscreen": "Full screen",
     "settings.language": "Language",
-    "settings.javaVersion": "Java Version",
     "settings.discord_presence": "Show your online presence on Discord",
     "update.title": "EdenNetwork Update",
     "update.message_success": "An update is ready to be installed.{br}Please restart EdenNetwork.",

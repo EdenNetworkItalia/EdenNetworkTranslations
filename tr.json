@@ -76,7 +76,6 @@
     "settings.page_transitions": "Sayfa Geçişleri",
     "settings.fullscreen": "Tam ekran",
     "settings.language": "Dil",
-    "settings.javaVersion": "Java sürümü",
     "settings.discord_presence": "Discord'da çevrimiçi varlığınızı gösterin",
     "update.title": "EdenNetwork Güncellemesi",
     "update.message_error": "Güncelleme kontrolünde bir hata oluştu.{br}Lütfen EdenNetworku yeniden başlat veya birazdan tekrar dene.",
