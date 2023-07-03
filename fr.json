@@ -104,6 +104,5 @@
     "loading.cleanup": "Fermeture de {name}...",
     "home.rememberAccount": "Ne m'oublie pas",
     "home.toast_banned_description": "Votre compte a été interdit pour {reason} jusqu'à {expiration}",
-    "home.toast_banned_title": "Compte Interdit",
-    "dashboard.admin": ""
+    "home.toast_banned_title": "Compte Interdit"
 }
